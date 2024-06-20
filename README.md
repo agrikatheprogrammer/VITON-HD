@@ -1,3 +1,5 @@
+not my code; credits:
+
 ## VITON-HD &mdash; Official PyTorch Implementation
 
 **\*\*\*\*\* New follow-up research by our team is available at https://github.com/rlawjdghek/StableVITON \*\*\*\*\***<br>
